@@ -30,3 +30,5 @@ Tomasz Strycharz - [TomaszStr](https://github.com/TomaszStr)
 
 Maciej Trzaskacz - [matrzask](https://github.com/matrzask)
 
+# Licencja
+Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
