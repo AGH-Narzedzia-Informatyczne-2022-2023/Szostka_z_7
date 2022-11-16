@@ -32,3 +32,6 @@ Maciej Trzaskacz - [matrzask](https://github.com/matrzask)
 
 ## Licencja
 Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
+
+##Podziękowania
+Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób które wspólnie z nami tworzyły ten projekt
