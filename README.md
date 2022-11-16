@@ -17,7 +17,7 @@ Aby sklonować projekt użyj komendy:
 git clone https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7.git
 ```
 
-# Autorzy
+## Autorzy
 Patryk Podgórski - [Podgorek](https://github.com/Podgorek)
 
 Patryk Skowron - [Pczrk](https://github.com/Pczrk)
@@ -30,5 +30,5 @@ Tomasz Strycharz - [TomaszStr](https://github.com/TomaszStr)
 
 Maciej Trzaskacz - [matrzask](https://github.com/matrzask)
 
-# Licencja
+## Licencja
 Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
