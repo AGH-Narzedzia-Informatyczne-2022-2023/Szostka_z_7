@@ -18,20 +18,20 @@ git clone https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7.g
 ```
 
 ## Autorzy
-Patryk Podgórski - [Podgorek](https://github.com/Podgorek)
+- Patryk Podgórski - [Podgorek](https://github.com/Podgorek)
 
-Patryk Skowron - [Pczrk](https://github.com/Pczrk)
+- Patryk Skowron - [Pczrk](https://github.com/Pczrk)
 
-Rafał Szarowicz - [rafalit](https://github.com/rafalit)
+- Rafał Szarowicz - [rafalit](https://github.com/rafalit)
 
-Adam Tokarz - [ZakatorDerg](https://github.com/ZakatorDerg)
+- Adam Tokarz - [ZakatorDerg](https://github.com/ZakatorDerg)
 
-Tomasz Strycharz - [TomaszStr](https://github.com/TomaszStr)
+- Tomasz Strycharz - [TomaszStr](https://github.com/TomaszStr)
 
-Maciej Trzaskacz - [matrzask](https://github.com/matrzask)
+- Maciej Trzaskacz - [matrzask](https://github.com/matrzask)
 
 ## Licencja
 Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
 
-##Podziękowania
-Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób które wspólnie z nami tworzyły ten projekt
+## Podziękowania
+Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób, które wspólnie z nami tworzyły ten projekt
