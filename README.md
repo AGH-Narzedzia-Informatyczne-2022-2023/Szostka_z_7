@@ -16,6 +16,13 @@ Aby sklonować projekt użyj komendy:
 ```
 git clone https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7.git
 ```
+## Zastosowania
+1. Trening gry w szachy
+2. Rozrywka
+3. Edukacja
+
+## Built With - Użyto:
+** Python ** - język programowania
 
 ## Autorzy
 - Patryk Podgórski - [Podgorek](https://github.com/Podgorek)
