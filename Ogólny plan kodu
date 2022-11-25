@@ -1,0 +1,9 @@
+Funkcja oceniająca
+1) Przypisanie wartości wszystkim figurom na szachownicy.
+2) Stworzenie funkcji oceniającej minimax, wraz z funkcją alpha-beta, która będzie pomagała w zoptymalizowaniu działania programu
+   i pozwalać będzie na obliczanie komputerowi większej ilości ruchów.
+    -odczytanie aktualnej sytuacji na planszy
+    -zaimplementowanie dwóch przypadków (gdy komputer zaczyna oraz gdy gracz zaczyna)
+    -Przetestowanie jaka jest maksymalna głębia, aby obliczenia komputera nie trwały zbyt długo
+    -inne formy optymalizacji, które wyjdą "w praniu"
+3) Dodanie do powyższej funkcji heurystyk, które pozwolą komputerowi wybrać jeszcze lepsze ruchy
