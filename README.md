@@ -1,6 +1,6 @@
 # Szostka_z_7
 
-![logo zespołu](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/logo_zespo%C5%82u/logo%20nr.2.jpg)
+![logo zespołu](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo%20nr.2.jpg)
 (inspiracja zaczerpnięta z darmowych projektów na pintereście)
 
 
