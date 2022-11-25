@@ -1,0 +1,4 @@
+Trzeba stworzyć kod pozwalający na gre dwóm graczom oraz na grę z komputerem.
+Kod będzie napisany w języku Python, będzie musiał łączyć algorytm minimax wyboru ruchu przez komputer oraz pobierać od gracza informacje jaki ruch chcą wykonać.
+Dodatkowo będzie musiał sprawdzać czy ruch jaki chce wykonać gracz jest możliwy i nie łamie zasad gry w szachy.
+Trzeba będzie też dodać warunki sprawdzające czy gra się nie zakończyła(mat, pat, pozostanie tylko 2 królów na szachownicy).
