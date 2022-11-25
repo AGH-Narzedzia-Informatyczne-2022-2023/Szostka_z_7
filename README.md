@@ -22,8 +22,7 @@ git clone https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7.g
 3. Edukacja
 
 ## Built With - Użyto:
-- **Python** - język programowania
-  - pygame - biblioteka
+**Python** - język programowania
 
 ## Autorzy
 - Patryk Podgórski - [Podgorek](https://github.com/Podgorek)
