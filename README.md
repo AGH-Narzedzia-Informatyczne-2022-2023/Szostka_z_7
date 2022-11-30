@@ -1,7 +1,7 @@
 # Szostka_z_7
 
-![logo zespołu](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo.jpg)
-(logo inspirowane pinterestem)
+
+<img src="https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo.jpg" width="400" height="400" />
 
 
 Projekt mający na celu stworzenie gry w szachy, która będzie możliwa przeciwko znajomym, bądź komputerowi.
@@ -11,9 +11,10 @@ Projekt mający na celu stworzenie gry w szachy, która będzie możliwa przeciw
 Te instrukcje pozwolą Ci stworzyć kopię projektu na swoim środowisku lokalnym w celu testu lub rozwijania projektu. Sprawdź wymagania wstępne.
 
 ### Wymagania wstępne
-- Python interpreter
-- Biblioteka pygame
-<!-- dodamy więcej jak będziemy więcej wiedzieć -->
+Python
+
+Biblioteka pygame
+
 
 ### Instalacja
 Aby sklonować projekt użyj komendy:
