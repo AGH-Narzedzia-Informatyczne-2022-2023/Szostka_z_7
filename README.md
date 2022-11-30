@@ -5,7 +5,7 @@
 
 
 
-Projekt mający na celu stworzenie emocjonującej i niesmaowitej gry w szachy, która będzie możliwa ze znajomym, bądź z komputerem.
+Projekt mający na celu stworzenie emocjonującej i niesamowitej gry w szachy, która będzie możliwa ze znajomym, bądź z komputerem.
 
 
 ## Jak zacząć: 
