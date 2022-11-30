@@ -4,7 +4,7 @@
 <img src="https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo.jpg" width="400" height="400" />
 
 
-Projekt mający na celu stworzenie gry w szachy, która będzie możliwa przeciwko znajomym, bądź komputerowi.
+Projekt mający na celu stworzenie gry w szachy ze znajomym, bądź z komputerem.
 
 ## Jak zacząć: 
 
