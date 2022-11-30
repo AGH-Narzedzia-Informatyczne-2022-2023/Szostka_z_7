@@ -4,7 +4,9 @@
 <img src="https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo.jpg" width="400" height="400" />
 
 
+
 Projekt mający na celu stworzenie emocjonującej i niesmaowitej gry w szachy, która będzie możliwa ze znajomym, bądź z komputerem.
+
 
 ## Jak zacząć: 
 
