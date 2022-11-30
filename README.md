@@ -1,7 +1,7 @@
 # Szostka_z_7
 
 ![logo zespołu](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7/blob/main/logo.jpg)
-(inspiracja zaczerpnięta z darmowych projektów na pintereście)
+(logo inspirowane pinterestem)
 
 
 Projekt mający na celu stworzenie gry w szachy, która będzie możliwa przeciwko znajomym, bądź komputerowi.
