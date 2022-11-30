@@ -13,6 +13,9 @@ Te instrukcje pozwolą Ci stworzyć kopię projektu na swoim środowisku lokalny
 ### Wymagania wstępne
 Python
 
+Biblioteka pygame
+
+
 ### Instalacja
 Aby sklonować projekt użyj komendy:
 
