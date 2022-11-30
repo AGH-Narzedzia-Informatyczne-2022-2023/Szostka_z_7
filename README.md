@@ -11,8 +11,7 @@ Projekt mający na celu stworzenie gry w szachy, która będzie możliwa przeciw
 Te instrukcje pozwolą Ci stworzyć kopię projektu na swoim środowisku lokalnym w celu testu lub rozwijania projektu. Sprawdź wymagania wstępne.
 
 ### Wymagania wstępne
-Python interpreter
-<!-- dodamy więcej jak będziemy więcej wiedzieć -->
+Python
 
 ### Instalacja
 Aby sklonować projekt użyj komendy:
