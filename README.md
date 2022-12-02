@@ -50,4 +50,6 @@ git clone https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Szostka_z_7.g
 Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
 
 ## Podziękowania
-Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób, które wspólnie z nami tworzyły ten projekt Proba konfliktu
+
+Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób, które wspólnie z nami tworzyły ten projekt tu ma wyjsc konflikt
+
