@@ -51,5 +51,5 @@ Projekt oparty na licencji MIT - zobacz [LICENSE](LICENSE)
 
 ## Podziękowania
 
-Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób, które wspólnie z nami tworzyły ten projekt tu ma wyjsc konflikt
+Podziękowania dla wszystkich obecnych i przyszłych użytkowników oraz dla osób, które wspólnie z nami tworzyły ten projekt tu ma wyjsc konflikt teraz trza to usunac
 
