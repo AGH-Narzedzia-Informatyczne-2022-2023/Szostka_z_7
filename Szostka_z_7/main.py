@@ -39,9 +39,9 @@ def main():
                     sqSelected = (row, col)
                     playerClicks.append(sqSelected)
                 if len(playerClicks) == 2:
-                    move = ChessEngine.Move(playerClicks[0], playerClicks[1], gs.board)
-                    print(move.getChessNotation())
-                    gs.makeMove(move)
+                    MOVE = move.Move(playerClicks[0], playerClicks[1], gs.board)
+                    print(MOVE.getChessNotation())
+                    gs.makeMove(MOVE)
                     sqSelected = ()
                     playerClicks = []
 
@@ -49,23 +49,23 @@ def main():
         clock.tick(MAX_FPS)
         pygame.display.flip()
 
-    def drawGameState(screen, gs):
-        drawBoard(screen)
-        drawPieces(screen, gs.board)
+def drawGameState(screen, gs):
+    drawBoard(screen)
+    drawPieces(screen, gs.board)
 
-    def drawBoard(screen):
-        colors = [pygame.Color("gray"), pygame.Color("darkgreen")]
-        for r in range(DIMENSION):
-            for c in range(DIMENSION):
-                color = colors[((r + c) % 2)]
-                pygame.draw.rect(screen, color, pygame.Rect(c * SQ_SIZE, r * SQ_SIZE, SQ_SIZE, SQ_SIZE))
+def drawBoard(screen):
+    colors = [pygame.Color("gray"), pygame.Color("darkgreen")]
+    for r in range(DIMENSION):
+        for c in range(DIMENSION):
+            color = colors[((r + c) % 2)]
+            pygame.draw.rect(screen, color, pygame.Rect(c * SQ_SIZE, r * SQ_SIZE, SQ_SIZE, SQ_SIZE))
 
-    def drawPieces(screen, board):
-        for r in range(DIMENSION):
-            for c in range(DIMENSION):
-                piece = board[r][c]
-                if piece != "--":
-                    screen.blit(IMAGES[piece], pygame.Rect(c * SQ_SIZE, r * SQ_SIZE, SQ_SIZE, SQ_SIZE))
+def drawPieces(screen,board):
+    for r in range(DIMENSION):
+        for c in range(DIMENSION):
+            piece = board[r][c]
+            if piece != "--":
+                screen.blit(IMAGES[piece], pygame.Rect(c * SQ_SIZE, r * SQ_SIZE, SQ_SIZE, SQ_SIZE))
 
 if __name__ == "__main__":
     main()
