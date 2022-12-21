@@ -1,6 +1,6 @@
 import pygame
-from Szostka_z_7 import board
-from Szostka_z_7 import move
+import board
+import move
 
 WIDTH=HEIGHT=512
 DIMENSION=8
