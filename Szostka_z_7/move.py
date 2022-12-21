@@ -15,11 +15,10 @@ class ChessBoard():
             ["wR", "wN", "wB", "wQ", "wK", "wB", "wN", "wR"]]
         self.whiteToMove = True
         self.moveLog = []
-
-    def makeMove(self, MOVE):
+    def makeMove(self,MOVE):
         self.board[MOVE.startRow][MOVE.startCol]="--"
         self.board[MOVE.endRow][MOVE.endCol] = MOVE.pieceMoved
-        self.moveLog,append(MOVE)
+        self.moveLog.append(MOVE)
         self.whiteToMove = not self.whiteToMove
 
 class Move():

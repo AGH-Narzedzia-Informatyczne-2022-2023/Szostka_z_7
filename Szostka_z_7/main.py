@@ -18,7 +18,7 @@ def main():
     screen = pygame.display.set_mode((WIDTH,HEIGHT))
     clock = pygame.time.Clock()
     screen.fill(pygame.Color("white"))
-    gs = board.ChessBoard()
+    gs = move.ChessBoard()
     loadImages()
     running = True
     sqSelected = ()
